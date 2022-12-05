@@ -1,11 +1,6 @@
-## GitHub Repos App with SolidJS and TypeScript
+# Fetch github repo
 
-[Link to the tutorial](https://youtu.be/WDodWU-B-aY)
-
-[Link to the hosted app](https://solid-gh-repos.netlify.app)
-
-[Follow me on LinkedIn](https://linkedin.com/in/ebenezerdon)
-
+## This is SolidJS example with repository pattern and Custom routes
 
 ## Usage
 
@@ -16,6 +11,10 @@ This is the reason you see a `pnpm-lock.yaml`. That being said, any package mana
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
+
+## Notice
+
+Please change default username in App.tsx, change `your git hub default username`
 
 ### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
 
